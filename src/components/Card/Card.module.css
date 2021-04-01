@@ -1,0 +1,69 @@
+.main {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+.block1 {
+    margin: 0;
+    padding-left: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+.block1 img {
+    height: 200px;
+    width: 250px;
+}
+.block1 h2 {
+    font-family: 'Play', sans-serif;
+}
+.block1 h3 {
+    color: rgb(204, 43, 43);
+    font-family: 'Play', sans-serif;
+} 
+.block1 h4 {
+    font-family: 'Play', sans-serif;
+    color: rgb(92, 85, 85);
+   
+}
+.block1 h5 {
+    font-family: 'Play', sans-serif;
+    color: gray;
+  
+}
+.block2 {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+   
+}
+.block2 button{
+    height: 45px;
+    width: 45px;
+    background-color:rgb(209, 78, 78);
+    border: none;
+    text-align:   white;
+    font-family: 'Play', sans-serif;
+    color: white; 
+}
+.block2 span {
+    border: 1px solid;
+    width: 50%;
+    font-family: 'Play', sans-serif;
+}
+.block3 {
+    margin-top: 5px;
+    padding-left: 5px;
+    width: 86%;
+}   
+.block3 button {
+    /* margin-left: 0; */
+    /* padding-left: 0; */
+    height: 45px;
+    width: 100%;
+    background-color:rgb(209, 78, 78);
+    border: none;
+    font-family: 'Play', sans-serif;
+    color: white;
+}   
